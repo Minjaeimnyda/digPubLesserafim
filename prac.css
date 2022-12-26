@@ -169,6 +169,7 @@ img{width: 100%;}
         margin: 0 0;
         padding: 0 0;
         height: 70px;
+        display: block;
         position: absolute;
     }
    header{
