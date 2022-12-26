@@ -162,14 +162,14 @@ img{width: 100%;}
         justify-content: space-between;
     }
     #logo{
-        display: flex;
+        display: block;
         height: 70px;
     }
     #logo img{
         margin: 0 0;
         padding: 0 0;
         height: 70px;
-        position: relative;
+        position: absolute;
     }
    header{
         flex-direction: column;
@@ -233,7 +233,7 @@ img{width: 100%;}
     #movie{
         width: 100%;
         display: flex;
-        background-image: url(르세라핌/main1.gif);
+        background-image: url(img/main1.gif);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
