@@ -141,7 +141,7 @@ header{
     right: 0px;
 }
 .memberImg{height: auto;}
-img{width: 100%;}
+#main img{width: 100%;}
 .container{
     display: none;
     width: 50px;
